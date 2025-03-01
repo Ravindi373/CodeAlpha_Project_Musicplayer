@@ -1,0 +1,20 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Dependencies
+node_modules/
+
+# Audio files
+*.mp3
+*.wav
+*.ogg
+
+# Except sample audio files
+!sample/*.mp3
+!sample/*.wav
+!sample/*.ogg 
