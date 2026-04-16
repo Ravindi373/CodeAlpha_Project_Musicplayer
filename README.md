@@ -45,6 +45,10 @@ The music player is compatible with all modern browsers that support the HTML5 A
 - Safari
 - Edge
 
+## Live Demo
+
+You can view the live demo here: [Music Player Demo](https://ravindi373.github.io/CodeAlpha_Project_Musicplayer/)
+
 ## Notes
 
 - The player uses Font Awesome icons for the controls
